@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jul 2023 14:33:26 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andrews First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 26 Jul 2023 14:33:26 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Github Markdown Example Headers Markdown makes use of the hash symbol to signify a header, the number of hashes shows the header size
+&amp;ldquo;#&amp;rdquo; - Header 1
+&amp;ldquo;##&amp;rdquo; - Header 2
+&amp;ldquo;###&amp;rdquo; Header 3
+Links Links can be done in 2 ways, either the full length URL, or a shortened hyperlink
+Direct URL = https://www.google.co.uk
+Google Link
+You can also link to a file in the repository
+README
+Tables Tables can be formatted using the &amp;quot; | and -&amp;quot; icons</description>
+    </item>
+    
+  </channel>
+</rss>
