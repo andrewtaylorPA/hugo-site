@@ -38,3 +38,15 @@ Tables can be formatted using the " | and -" icons
 | James | Windows | No |
 | Luke | Linux | Yes |
 | Sam | Windows | Yes |
+
+## Code Examples
+
+Examples of code contained in the repo can be shown here in code snippets
+
+``` bash
+echo "PowerShell is better"
+```
+
+```Powershell
+Write-Host "PowerShell just makes more sense"
+```
